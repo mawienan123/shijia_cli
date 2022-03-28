@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/mawienan123/shijia_cli#readme",
   "dependencies": {
+    "axios": "^0.26.1",
     "chalk": "^4.0.0",
     "commander": "^9.1.0",
     "figlet": "^1.5.2",
