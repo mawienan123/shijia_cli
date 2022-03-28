@@ -3,7 +3,7 @@
 const program = require('commander') // 命令行
 const chalk = require('chalk')
 const figlet = require('figlet')
-const inquirer = require('inquirer')
+
 program
   // 定义命令和参数
   .command('create <app-name>')
