@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "自定义脚手架",
   "main": "index.js",
+  "bin": {
+    "shijia_cli": "./bin/cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/mawienan123/shijia_cli/issues"
   },
-  "homepage": "https://github.com/mawienan123/shijia_cli#readme"
+  "homepage": "https://github.com/mawienan123/shijia_cli#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^9.1.0",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.1",
+    "inquirer": "^8.2.2"
+  }
 }
