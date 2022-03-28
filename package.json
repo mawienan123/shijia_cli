@@ -13,7 +13,19 @@
     "type": "git",
     "url": "git+https://github.com/mawienan123/shijia_cli.git"
   },
-  "author": "",
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": {
+    "name": "shijia",
+    "email": "602469285@qq.com"
+  },
+  "keywords": [
+    "shi_jia-cli",
+    "zr",
+    "脚手架"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mawienan123/shijia_cli/issues"
