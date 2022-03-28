@@ -1,0 +1,19 @@
+{
+  "name": "shijia_cli",
+  "version": "1.0.0",
+  "description": "自定义脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mawienan123/shijia_cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mawienan123/shijia_cli/issues"
+  },
+  "homepage": "https://github.com/mawienan123/shijia_cli#readme"
+}
